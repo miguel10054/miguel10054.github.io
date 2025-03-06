@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<!--Llenar el Title y los Metadatos-->
+<title> Unidad 1 | Actividad 04-1 </title>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<meta charset="utf-8">
+<meta name="Autor" content="Miguel Angel Flores Gonzalez">
+<meta name="Fecha" content="12 de febrero de 2025">
+<meta name="Descripción" content="Listas">
+</head>
+<body>
+<!--Llenar el Título y pegar el contenido -->
+<h1> Unidad 1 | Actividad 04-1 :: Plan de estudios (Listas) </h1>
+<ol>
+<li> Semestre I </li>
+<ul>
+    <li> Matematicas I</li>
+    <li> Fisica I </li>
+    <li> Ingles I </li>
+    <li> Proyecto Integrador de Matematicas </li>
+    <li> Introduccion a la Computacion</li>
+    <li> Curso de Nucleo General II </li>
+       <ul> <li> Desarrollo Del Pensamiento Critico </li></ul>
+      
+        </ul>
+    
+
+
+
+<li> Semestre II</li>
+<ul>
+    <li> Matematicas II</li>
+    <li> Fisica II </li>
+    <li> Ingles II </li>
+    <li> Curso de Nucleo General II </li>
+       <ul> <li> Comunicacion e Investigacion </li></ul>
+    <li>Programacion I</li>
+    <li>Curso de Nucleo Optativo I
+   <ul> <li>Programacion Web</li>
+<li>Taller de Computacion</li></li></ul>
+        </ul>
+<li> Semestre III</li>
+<ul> 
+      <li>Matematicas III</li>
+      <li>Matematicas Discretas</li>
+      <li>Quimica</li>
+      <li>Ingles III</li>
+      <li>Programacion II</li>
+      <li>Curso del Nucleo Optativo II</li>
+      <ul>
+         <li>Programacion Web II</li>
+         <li>Topicos Selectos de Programacion</li>
+      </ul>
+   </li>
+</ul>
+<li> Semestre IV</li>
+<ul> 
+   <li>Probabilidad y estadistica</li>
+   <li>Circuitos Electricos</li>
+   <li>Curso del Nucleo General III</li>
+   <ul>
+      <li>Filosogfia y Valores</li>
+   </ul>
+   <li>Ingles IV</li>
+   <li>Programacion III</li>
+   <li>Proyecto Integrador y Comprensivo I</li>
+   <li>IT Essentials</li>
+</ul>
+<li> Semestre V</li>
+<ul> 
+   <li>Matematicas IV</li>
+   <li>Sistemas Digitales</li>
+   <li>Sistemas Operativos</li>
+   <li>Ingles IV</li>
+   <li>Analisis y Diseño de Algoritmos</li>
+   <li>Curso del Nucleo Optativo III</li>
+   <ul>
+      <li>Interaccion Humana y Computadora</li>
+      <li>Modelado</li>
+   </ul>
+
+</ul>
+<li> Semestre VI</li>
+<ul> 
+   <li>Ingenieria de Software I</li>
+   <li>Lenguajes de Programacion</li>
+   <li>Curso del Nucleo General IV</li>
+   <ul>
+      <li>Creatividad</li>
+   </ul>
+   <li>Arquitectura de Computadoras</li>
+   <li>Taller de Desarrollo Empresarial</li>
+   <li>Proyecto Integrador y Comprensivo II</li>
+   <li>Solaris</li>
+   </ul>
+
+<li> Semestre VII</li>
+<ul> 
+   <li>Ingenieria de Software II</li>
+   <li>Base de Datos</li>
+   <li>Teoria Computacional</li>
+   <li>Organizacion Computacional</li>
+   <li>Taller de Creatividad y Emprendedores</li>
+   <li>Curso del Nucleo Optativo IV</li>
+   <ul>
+      <li>Programacion WAP</li>
+      <li>Topicos Avanzados de Programacion</li>
+      <li>Introduccion a la Didactica</li>
+   </ul>
+</ul>
+<li> Semestre VIII</li>
+<ul> 
+   <li>Mineria de Datos</li>
+   <li>Inteligencia Artificial I</li>
+   <li>Curso del Nucleo General V: Desarrollo de Competencias </li>
+   <li>Redes de Computadoras</li>
+   <li>Proyecto Integrador y Comprensivo III</li>
+   <li>Curso del Nucleo Optativo V</li>
+   <ul>
+      <li>Seguridad Informatica</li>
+      <li>Criptografia</li>
+      <li>Didactica de la Fisica y las Matematicas en el nivel medio Superior y Superior</li>
+   </ul>
+</ul>
+<li> Semestre IX</li>
+<ul> 
+   <li>Compiladores</li>
+   <li>Comercio Electronico</li>
+   <li>Sistemas Virtuales </li>
+   <li>Inteligencia Artificial II</li>
+   <li>Proyecto Profesional</li>
+   <li>Curso del Nucleo Optativo VI</li>
+   <ul>
+      <li>Sistemas ERP</li>
+      <li>Base de Datos Distribuidas</li>
+      <li>Uso de la Informatica y Multimedios para la enseñanza</li>
+      <li>Residencia Profesional</li>
+   </ul>
+</ul>
+
+  </ol>
